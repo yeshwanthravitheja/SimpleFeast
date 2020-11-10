@@ -1,7 +1,7 @@
 %
 % A SIMPLE ONE LAYER FEAST WITH DIFFERENT NUMBER OF FEATURES
 % Author: Saeed Afshar
-% Email: S.Afshar@westernsydney.edu.au
+% Email: S.Afshar[at]westernsydney[dot]edu[dot]au
 % A dummy dataset with a square moving around in a circle and observing
 % a feast layer with different number of neurons for each run. 
 
